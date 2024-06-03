@@ -200,7 +200,7 @@ img {
 }
 
 .optional-btn {
-  border: 1px solid #302c51;
+  border: 1px solid #B8E6A2;
   position: relative;
   display: inline-block;
   text-align: center;
@@ -208,7 +208,7 @@ img {
   z-index: 1;
   color: #ffffff !important;
   text-transform: capitalize;
-  background-color: #302c51;
+  background-color: #B8E6A2;
   cursor: pointer;
   transition: 0.5s;
   border-radius: 50px;
@@ -3734,6 +3734,7 @@ Main Banner Area CSS
   font-family: "Times New Roman", cursive;
   font-weight: normal;
   display: block;
+  margin-top: 2px;
 }
 .main-banner-content h1 {
   font-size: 55px;
@@ -4469,7 +4470,7 @@ Home Banner Three Area CSS
 }
 .home-banner-three .home-slides .home-item, .home-banner-three .home-slides-four .home-item {
   position: relative;
-  height: 800px;
+  height: 200px;
   position: relative;
   background-position: center center;
   background-size: cover;
@@ -4571,7 +4572,7 @@ Home Banner Three Area CSS
   position: absolute;
   content: "";
   width: 100%;
-  height: 675px;
+  height: 275px;
   left: 0;
   bottom: -200px;
   border-right: 2px solid #777986;
