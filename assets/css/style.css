@@ -4081,7 +4081,7 @@ Process Area CSS
   line-height: 1;
 }
 .process-item:hover .icon {
-  background-color: #46416b;
+  background-color: none;
 }
 
 /*================================================
