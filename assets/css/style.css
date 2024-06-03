@@ -2276,7 +2276,7 @@ Donor Area CSS
   width: 100px;
   line-height: 100px;
   text-align: center;
-  border: 1px solid #49456e;
+  border: 1px solid #B8E6A2;
   border-radius: 50px;
   color: #ffae88;
   font-weight: normal;
@@ -2305,7 +2305,7 @@ Donor Area CSS
   line-height: 1;
 }
 .donor-item:hover .icon {
-  background-color: #46416b;
+  background-color: #B8E6A2;
 }
 
 .lines {
@@ -4054,7 +4054,7 @@ Process Area CSS
   width: 70px;
   line-height: 70px;
   text-align: center;
-  border: 1px solid #49456e;
+  border: 1px solid #B8E6A2;
   border-radius: 50px;
   color: #ffae88;
   font-weight: normal;
